@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Contacts
 <a href="https://www.linkedin.com/in/developer-seongwon"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/developer-seongwon"/></a>
-<a href="https://tjddnjs.tistory.com"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=Blogger&link=https://tjddnjs.tistory.com/"/></a>
+<a href="https://tjddnjs.tistory.com"><img src="https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://tjddnjs.tistory.com/"/></a>
 <a href="mailto:leeseongwon13@gmail.com"><img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leeseongwon13@gmail.com"/></a>
 
 
