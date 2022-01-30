@@ -26,12 +26,12 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Education
-* Soongsil University -  Bechelor of Electronic Engineering (Mar 2015 ~ Feb 2019)
+* Soongsil University -  Bechelor of Electronic Engineering (2015.03 ~ 2019.02)
 
 
 ### Work Experience
-* TmaxSoft - JAVA Engineer (Mar 2021 ~) <br>
-* AhnLab - Python Backend Engineer (July 2018 ~ Feb 2021)
+* TmaxSoft - Java Engineer (2021.03 ~) <br>
+* AhnLab - Python Backend Engineer (2018.07 ~ 2021.02)
 
 
 <!-- ### Activities -->
