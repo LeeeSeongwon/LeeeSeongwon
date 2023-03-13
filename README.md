@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 ### Work Experience
 
 * NCSOFT - MLOps Engineer (2022.09 ~) <br>
-* TmaxSoft - Java Engineer (2021.03 ~ 2022.08) <br>
+* TmaxSoft - Java Engineer / Knowledge-Base Construction (2021.03 ~ 2022.08) <br>
 * AhnLab - Python Backend Engineer (2018.07 ~ 2021.02)
 
 
